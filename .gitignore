@@ -20,3 +20,6 @@ cmake_install.cmake
 .DS_Store
 sdkconfig
 sdkconfig.old
+
+# IDE configuration
+.vscode/
