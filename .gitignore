@@ -23,3 +23,6 @@ sdkconfig.old
 
 # IDE configuration
 .vscode/
+compile_commands.json
+.clangd
+.cache
