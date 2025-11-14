@@ -1,0 +1,22 @@
+# CMake files
+build/
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+
+# Linker files
+*.map
+
+# Binaries
+*.bin
+*.elf
+*.elf.sha256
+
+# Archives
+*.a
+
+# Other files
+*.gdb
+.DS_Store
+sdkconfig
+sdkconfig.old
