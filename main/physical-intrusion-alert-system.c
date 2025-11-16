@@ -7,6 +7,7 @@
 #include "driver/gpio.h"
 #include "math.h"
 
+#include "credentials.h"
 #include "nvs_flash.h"
 #include "esp_wifi.h"
 #include "esp_event.h"
@@ -16,6 +17,7 @@
 // Main Parameter
 #define D0 GPIO_NUM_4
 
+// Global Vars
 char *TAG = "INTRUSION ALERT";
 
 void app_main(void)
