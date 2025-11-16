@@ -26,3 +26,4 @@ sdkconfig.old
 compile_commands.json
 .clangd
 .cache
+credentials.h
